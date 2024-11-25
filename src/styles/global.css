@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'HarmonyOSSansSC-Regular';
+    src: url('https://static.axtn.net/font/HarmonyOS/HarmonySans-Regular.ttf') format('truetype');
+}
+
+body {
+    font-family: 'HarmonyOSSansSC-Regular', sans-serif;
+}
+
+html, body {
+    cursor: url("data:image/svg+xml;charset=utf8,<svg xmlns='http://www.w3.org/2000/svg' width='32' height='32' viewBox='0 0 100 100'><circle cx='50' cy='50' r='45' fill='rgba(179%2C179%2C179%2C0.5)'/><circle cx='50' cy='50' r='35' fill='%23666666'/></svg>") 16 16, auto;
+}

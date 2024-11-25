@@ -1,9 +1,9 @@
 {
   "private": true,
-  "name": "cara",
-  "description": "Playful and Colorful One-Page portfolio featuring Parallax effects and animations",
+  "name": "darf-home",
+  "description": "XiaoXianHW Personal Homepage",
   "version": "0.2.15",
-  "author": "LekoArts",
+  "author": "Darf",
   "license": "0BSD",
   "starter-name": "gatsby-starter-portfolio-cara",
   "scripts": {
@@ -17,11 +17,13 @@
   },
   "dependencies": {
     "@lekoarts/gatsby-theme-cara": "^5.1.4",
+    "ajv": "^8.17.1",
     "gatsby": "^5.13.6",
     "gatsby-plugin-manifest": "^5.13.1",
     "gatsby-plugin-webpack-statoscope": "^1.0.3",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "react-icons": "^5.3.0"
   },
   "devDependencies": {
     "@types/node": "^20.14.10",
